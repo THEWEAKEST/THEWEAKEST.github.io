@@ -24,4 +24,4 @@ Skills
 
 Publications
 ======
-  
+  [DewaterGAN: A Physics-Guided Unsupervised Image Water Removal for UAV in Coastal Zone](https://ieeexplore.ieee.org/document/10720144/authors#authors)
