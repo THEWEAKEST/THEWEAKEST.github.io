@@ -8,6 +8,9 @@ date: 2024-10-16
 venue: 'Journal 1'
 slidesurl: 'https://ieeexplore.ieee.org/document/10720144'
 paperurl: 'https://ieeexplore.ieee.org/document/10720144'
+citation: 'F. Yao et al., "DewaterGAN: A Physics-Guided Unsupervised Image Water Removal for UAV in Coastal Zone," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3481491.
+keywords: {Autonomous aerial vehicles;Training;Rain;Oceans;Image color analysis;Tides;Sea measurements;Image restoration;Generators;Remote sensing;Water removal;CycleGAN;Physics-based attention;UAV remote sensing},
+'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
