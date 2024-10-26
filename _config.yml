@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Fuzhi Tang"
-  pronouns         : # example: "he/him"  
-  bio              : "Junior undergraduate, major in computer science and technology"
+  pronouns         : "he/him"  
+  bio              : #"Junior undergraduate, major in computer science and technology"
   location         : "Qingdao, China"
   employer         : "Shandong University"
   uri              : # URL
