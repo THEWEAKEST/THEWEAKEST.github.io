@@ -13,14 +13,11 @@ Education
 ======
 * B.S. in [Computer Science and Technology](https://bkjx.sdu.edu.cn/), [Shandong University](https://www.cs.sdu.edu.cn/), 2022-present
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ICPC
+  * The 2023 ICPC Asia Macau Regional Contest, Bronze Prize
+  * The 2023 ICPC Asia Hefei Regional Contest, Silver Prize
 
 Publications
 ======
