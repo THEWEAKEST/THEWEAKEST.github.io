@@ -11,7 +11,7 @@ redirect_from:
 
 Contact
 ======
-Emails: 
+**Emails:** <br />
 202200130240@mail.sdu.edu.cn <br />
 oiertangfuzhi@gmail.com <br />
 
