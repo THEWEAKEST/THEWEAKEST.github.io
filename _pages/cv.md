@@ -15,7 +15,7 @@ Education
   
 Awards
 ======
-* ICPC
+* ICPC (The ICPC International Collegiate Programming Contest)
   * The 2023 ICPC Asia Macau Regional Contest, Bronze Prize
   * The 2023 ICPC Asia Hefei Regional Contest, Silver Prize
 
