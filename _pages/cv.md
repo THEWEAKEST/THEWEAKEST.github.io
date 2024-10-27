@@ -18,7 +18,7 @@ oiertangfuzhi@gmail.com <br />
 
 Education
 ======
-* B.S. in [Computer Science and Technology](https://bkjx.sdu.edu.cn/), [Shandong University](https://www.cs.sdu.edu.cn/), 2022-present
+* B.S. in [Computer Science and Technology](https://www.cs.sdu.edu.cn/), [Shandong University](https://bkjx.sdu.edu.cn/), 2022-present
   
 Awards
 ======
