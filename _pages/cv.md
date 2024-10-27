@@ -25,4 +25,4 @@ Skills
 Publications
 ======
   [DewaterGAN: A Physics-Guided Unsupervised Image Water Removal for UAV in Coastal Zone](https://ieeexplore.ieee.org/document/10720144)
-  Fengqin Yao, 
+  Fengqin Yao, Fuzhi Tang, Xiandong Wang, Yuzhen Wang, Shengke Wang, Guoqiang Zhong, Jingfeng Zhang
