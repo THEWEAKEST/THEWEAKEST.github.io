@@ -15,11 +15,13 @@ Education
   
 Awards
 ======
-* ICPC (The ICPC International Collegiate Programming Contest)
-  * The 2023 ICPC Asia Macau Regional Contest, Bronze Prize
-  * The 2023 ICPC Asia Hefei Regional Contest, Silver Prize
+* ICPC (The International Collegiate Programming Contest)
+  * The 2023 ICPC Asia Macau Regional Contest, Bronze Medal
+  * The 2023 ICPC Asia Hefei Regional Contest, Silver Medal
+* CCPC (China Collegiate Programming Contest)
+  * The 2024 CCPC Shandong Province Contest, Gold Medal
 
 Publications
 ======
   [DewaterGAN: A Physics-Guided Unsupervised Image Water Removal for UAV in Coastal Zone](https://ieeexplore.ieee.org/document/10720144) <br />
-  Fengqin Yao, Fuzhi Tang, Xiandong Wang, Yuzhen Wang, Shengke Wang, Guoqiang Zhong, Jingfeng Zhang
+  Fengqin Yao, *Fuzhi Tang*, Xiandong Wang, Yuzhen Wang, Shengke Wang, Guoqiang Zhong, Jingfeng Zhang
