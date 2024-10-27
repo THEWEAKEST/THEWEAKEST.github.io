@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+======
+Emails: 
+202200130240@mail.sdu.edu.cn <br \>
+oiertangfuzhi@gmail.com <br \>
+
+
 Education
 ======
 * B.S. in [Computer Science and Technology](https://bkjx.sdu.edu.cn/), [Shandong University](https://www.cs.sdu.edu.cn/), 2022-present
