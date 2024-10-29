@@ -11,3 +11,8 @@ I'm Fuzhi Tang, a junior undergraduate from [School of Computer Science and Tech
 <br /><br />
 My research interests are Computer Vision and Computer Graphics. I have research experience on Adversarial Learning for Diffusion Model and Semantic Segmantation using Diffusion Model. And I participated in a work on Images Processing for experiments. <br /><br />
 Nowadays I'm looking for chances of Summer Internships in 2025.
+
+Publications
+======
+  [DewaterGAN: A Physics-Guided Unsupervised Image Water Removal for UAV in Coastal Zone](https://ieeexplore.ieee.org/document/10720144) <br />
+  Fengqin Yao, **Fuzhi Tang**, Xiandong Wang, Yuzhen Wang, Shengke Wang, Guoqiang Zhong, Jingfeng Zhang
