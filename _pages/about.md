@@ -14,5 +14,5 @@ Nowadays I'm looking for chances of Summer Internships in 2025.
 
 Publications
 ======
-  [DewaterGAN: A Physics-Guided Unsupervised Image Water Removal for UAV in Coastal Zone](https://ieeexplore.ieee.org/document/10720144) <br />
+  [DewaterGAN: A Physics-Guided Unsupervised Image Water Removal for UAV in Coastal Zone](https://ieeexplore.ieee.org/document/10720144) (IEEE TGRS)<br />
   Fengqin Yao, **Fuzhi Tang**, Xiandong Wang, Yuzhen Wang, Shengke Wang, Guoqiang Zhong, Jingfeng Zhang
